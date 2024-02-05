@@ -24,6 +24,8 @@ This project focuses on developing a normalized data model for the solar system,
 
 4. **Planetary Rotation Analysis:** Determining which planet has the shortest number of rotation days per revolution, highlighting the diversity in planetary behaviors and characteristics.
 
+5. **USA Missions Contribution:** Showing which missions were sponsored and launched by USA government.
+
 ## Getting Started
 
 To explore this project, clone the repository and review the `docs/` directory for the ERD and model explanation. Execute the DML SQL scripts to populate your database, and then run the provided SQL queries to see the data model in action.
