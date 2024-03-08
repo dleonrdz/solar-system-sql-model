@@ -35,10 +35,17 @@ To explore this project, clone the repository and review the `docs/` directory f
 - MySQL Workbench for opening the `.mwb` ERD file.
 - A SQL database environment to execute the DML and query scripts.
 
-## Contributing
+## How to Contribute
 
-Contributions to expand or refine the data model are welcome. Please read the contributing guidelines before submitting your pull requests.
+Your feedback is highly appreciated! If you have suggestions or would like to contribute, please feel free to reach out:
 
+- [Diego Leon](mailto:diego.leon07@outlook.com)
+
+## Contact
+
+For any questions or collaboration inquiries, please contact:
+
+- [Diego Leon](mailto:diego.leon07@outlook.com)
 
 ## Acknowledgments
 
